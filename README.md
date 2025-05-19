@@ -30,7 +30,7 @@ Install the required Python libraries using the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ---
 ## 3. ▶️ Run the App
@@ -39,7 +39,7 @@ Start the Streamlit application with:
 
 ```bash
 streamlit run app.py
-
+```
 
 ## 🧠 Tech Stack
 
